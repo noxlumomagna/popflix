@@ -22,7 +22,7 @@ const Footer = () => {
           </div>
           <div className="footer__content__menu">
             <p>
-              <a href="https://dericknguyen.netlify.app/">Github</a>
+              <a href="https://github.com/noxlumomagna">Github</a>
             </p>
           </div>
           <div className="footer__content__menu">
