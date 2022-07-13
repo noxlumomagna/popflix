@@ -1,3 +1,5 @@
+Inspired by the popular streaming website Disney+, PopFlix was made using React, SASS, movie API from themoviedb, and Javascript
+
 # PopFlix
     
     npm install
