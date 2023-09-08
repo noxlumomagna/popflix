@@ -27,7 +27,7 @@ const Footer = () => {
           </div>
           <div className="footer__content__menu">
             <p>
-              <a href="https://www.linkedin.com/in/derick-nguyen-100devs/">
+              <a href="https://www.linkedin.com/in/1derick-nguyen">
                 LinkedIn
               </a>
             </p>
