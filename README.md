@@ -1,11 +1,11 @@
-Popflix Project
+Popflix
 
 This repository contains a project built using React, TypeScript, and SCSS. The goal of this project was to recreate the user interface and functionality of the popular streaming platform Netflix, while also learning and implementing various web development concepts.
 
 Technologies Used
 
 React: A JavaScript library for building user interfaces.
-TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
+JSX: A syntax extension for JavaScript that allows you to write HTML-like code within your JavaScript files.
 SCSS: A popular CSS preprocessor that adds features like variables, mixins, and nesting to CSS.
 
 Project Structure
@@ -28,8 +28,7 @@ Lessons Learned
 
 Throughout the development of this project, several valuable lessons were learned, including:
 
-Proper structuring of a React project for better code organization and reusability.
-Effective use of TypeScript to catch errors during development and improve code maintainability.
+Understanding the fundamentals of React and JSX syntax, including components, state, and props.
 Utilizing SCSS to write clean and modular CSS code, making styling more efficient.
 Implementing third-party APIs to fetch and display dynamic content.
 Building a responsive design to ensure a seamless experience across different devices.
@@ -40,7 +39,6 @@ To run this project locally, follow these steps:
 
 Clone the repository.
 Install the necessary dependencies using npm install.
-Create a Firebase project and configure the Firebase Authentication service.
 Obtain an API key from the TMDb website.
 Create a .env file in the project root and add the necessary environment variables.
 Run the project using npm start.
